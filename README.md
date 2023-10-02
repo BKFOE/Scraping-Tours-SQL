@@ -1,3 +1,2 @@
 # What is this project?
-This is a web app to scrape a website and email when a new tour is announced. 
-### Web developments
+A program that checks a music band's website and sends an email when there are new tours.
